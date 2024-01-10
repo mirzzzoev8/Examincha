@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Examincha\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examincha\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examincha\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\User\Desktop\Examincha\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
